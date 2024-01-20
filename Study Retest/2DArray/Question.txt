@@ -1,0 +1,8 @@
+//Define a new method named findColumnMax within Array2D Class
+//This method aims to obtain the largest number for each column in a 2D array
+//and store these largest numbers in a seperate array
+
+//The method accepts a 2D array for which the largest numbers of columns are to be found
+//It uses nested loops to iterate through each column of the array, comparing numbers 
+//to determine the largest number for each column
+//It returns a 1D array containing the largest numbers for each column
