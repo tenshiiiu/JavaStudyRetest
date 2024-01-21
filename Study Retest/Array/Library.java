@@ -28,7 +28,9 @@ public class Library {
 
         // Display the details of each Book Object in the array
         for (Book book : books) {
-            book.displayBookDetails();//System.out.println();  // Add a blank line between books for better readability
+            book.displayBookDetails();
+            // Add a blank line between books for better readability
+            System.out.println();  
         }
     }
 }
