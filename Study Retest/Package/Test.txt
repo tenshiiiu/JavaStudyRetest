@@ -1,0 +1,14 @@
+QUESTION 
+
+i)  Write a Java statement to create a package for YourExample1.java and MyClass.java
+
+ii) In a program named Test.java, write a java statement that imports the MyExample class 
+    as well as all of the classes in Example folder
+
+
+i)  package MyPackage.MyClass;
+    package Example.YourExample1;
+
+ii) import  MyPackage.MyExample;
+    import  YourPackage.Example.*;
+
