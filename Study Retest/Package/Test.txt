@@ -6,9 +6,28 @@ ii) In a program named Test.java, write a java statement that imports the MyExam
     as well as all of the classes in Example folder
 
 
-i)  package MyPackage.MyClass;
-    package Example.YourExample1;
+i)  //MyClass
+    package MyPackage;
+
+    public class MyClass {
+    // Your code here
+    }
+
+
+    //YourExample1
+    package YourPackage.Example;
+
+    public class YourExample1 {
+    // Your code here
+    }
+
 
 ii) import  MyPackage.MyExample;
     import  YourPackage.Example.*;
+    
+    public class Test {
+        public static void main(String[] args) {
+            // Your code here
+        }
+    }
 

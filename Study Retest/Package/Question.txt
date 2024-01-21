@@ -1,0 +1,13 @@
+C:
+--Src
+  |---MyPackage
+  |     |---MyClass.java
+  |     |---MyExample.java
+  |
+  |---YourPackage
+  |     |---YourClass.java
+  |     |---Example
+  |         |---YourExample1.java
+  |         |---YourExample2.java
+  |
+  |---Test.java
